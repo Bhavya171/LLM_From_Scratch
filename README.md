@@ -1,2 +1,2 @@
 # LLM_From_Scratch
-This is the Code which i wrote for the book Build a Large Language Model from Scratch by Sebastian Rashcka
+This repository are the files of my understanding from the book Build a Large Language Model from Scratch by Sebastian Rashcka
